@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="73.4020" tests="11" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-08-15T03:56:47" tests="0" file="specs/homePageSpec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="XFlix" timestamp="2021-08-15T03:56:47" tests="11" time="73.4020" failures="0">
+    <testcase name="XFlix should display 5 genre buttons on a row" time="18.5750" classname="should display 5 genre buttons on a row">
+    </testcase>
+    <testcase name="XFlix should display 5 content rating buttons on a row" time="2.3430" classname="should display 5 content rating buttons on a row">
+    </testcase>
+    <testcase name="XFlix should not have same parent for genre and content rating buttons" time="2.0790" classname="should not have same parent for genre and content rating buttons">
+    </testcase>
+    <testcase name="XFlix should not have &quot;View Count&quot; option selected in sort by dropdown on page load" time="3.9360" classname="should not have &quot;View Count&quot; option selected in sort by dropdown on page load">
+    </testcase>
+    <testcase name="XFlix should have &quot;Release Date&quot; option selected in sort by dropdown on page load" time="3.8510" classname="should have &quot;Release Date&quot; option selected in sort by dropdown on page load">
+    </testcase>
+    <testcase name="XFlix should have &quot;View Count&quot; option selectable after clicking on the sort by dropdown" time="1.7590" classname="should have &quot;View Count&quot; option selectable after clicking on the sort by dropdown">
+    </testcase>
+    <testcase name="XFlix should have &quot;Upload&quot; button on landing page on load" time="2.5110" classname="should have &quot;Upload&quot; button on landing page on load">
+    </testcase>
+    <testcase name="XFlix should open video modal with &quot;Submit&quot; and &quot;Cancel&quot; buttons, on clicking &quot;Upload&quot; button" time="7.8150" classname="should open video modal with &quot;Submit&quot; and &quot;Cancel&quot; buttons, on clicking &quot;Upload&quot; button">
+    </testcase>
+    <testcase name="XFlix should open video modal on clicking &quot;Upload&quot; button and close it on clicking &quot;Cancel&quot; button in the modal" time="3.3000" classname="should open video modal on clicking &quot;Upload&quot; button and close it on clicking &quot;Cancel&quot; button in the modal">
+    </testcase>
+    <testcase name="XFlix should have at least 10 links (with class &quot;video-tile-link&quot;) to different videos on page load." time="12.7890" classname="should have at least 10 links (with class &quot;video-tile-link&quot;) to different videos on page load.">
+    </testcase>
+    <testcase name="XFlix should display the video page on clicking the first video tile (with class &quot;video-tile&quot;) which has a parent element with class &quot;video-tile&quot;which is child of an &quot;video-tile-link&quot; element " time="14.4440" classname="should display the video page on clicking the first video tile (with class &quot;video-tile&quot;) which has a parent element with class &quot;video-tile&quot;which is child of an &quot;video-tile-link&quot; element ">
+    </testcase>
+  </testsuite>
+</testsuites>
